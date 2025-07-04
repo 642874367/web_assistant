@@ -27,7 +27,23 @@ All features are for browsing assistance and information display only, and are n
 本插件将在以下网站上启用，以便实现页面辅助功能：  
 The extension will be active on the following websites to provide page assistance:
 
-（此处内容不变，省略）
+- https://*.51job.com/*
+- https://*.zhaopin.com/*
+- https://*.liepin.com/*
+- https://*.liepin.cn/*
+- https://*.maimai.cn/*
+- https://*.zhipin.com/*
+- https://*.lagou.com/*
+- https://*.linkedin.com/*
+- https://*.indeed.com/*
+- https://*.careerbuilder.com/*
+- https://*.glassdoor.com/*
+- https://*.monster.com/*
+- https://*.simplyhired.com/*
+- https://*.idealist.org/*
+- https://*.wise.com/*
+- https://*.yingjiesheng.com/*
+- https://*.businessconnectchina.com/*
 
 插件不会在其他网站或未授权页面注入代码。  
 The extension does not operate on other websites or inject scripts outside of the domains listed above.
